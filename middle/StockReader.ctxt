@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StockReader
+comment0.text=\r\n\ Interface\ for\ read\ access\ to\ the\ stock\ list.\r\n\ @author\ \ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 2.0\r\n
+comment1.params=pNum
+comment1.target=boolean\ exists(java.lang.String)
+comment1.text=\r\n\ Checks\ if\ the\ product\ exits\ in\ the\ stock\ list\r\n\ @param\ pNum\ Product\ nymber\r\n\ @return\ true\ if\ exists\ otherwise\ false\r\n\ @throws\ StockException\ if\ issue\r\n
+comment2.params=pNum
+comment2.target=catalogue.Product\ getDetails(java.lang.String)
+comment2.text=\r\n\ Returns\ details\ about\ the\ product\ in\ the\ stock\ list\r\n\ @param\ pNum\ Product\ nymber\r\n\ @return\ StockNumber,\ Description,\ Price,\ Quantity\r\n\ @throws\ StockException\ if\ issue\r\n
+comment3.params=pNum
+comment3.target=javax.swing.ImageIcon\ getImage(java.lang.String)
+comment3.text=\r\n\ Returns\ an\ image\ of\ the\ product\ in\ the\ stock\ list\r\n\ @param\ pNum\ Product\ nymber\r\n\ @return\ Image\r\n\ @throws\ StockException\ if\ issue\r\n
+numComments=4

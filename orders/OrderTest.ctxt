@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=OrderTest
+comment0.text=\r\n\ A\ JUnit\ test\ of\ the\ Order\ class\r\n
+comment1.params=
+comment1.target=middle.OrderProcessing\ makeOrder()
+comment2.params=
+comment2.target=void\ setUp()
+comment3.params=
+comment3.target=void\ tearDown()
+comment4.params=
+comment4.target=void\ test()
+comment5.params=name\ orderNum
+comment5.target=boolean\ isInTray(java.lang.String,\ int)
+comment5.text=\r\n\ Check\ if\ orderNum\ is\ in\ tray\ name\r\n
+comment6.params=name\ orderNums
+comment6.target=boolean\ isInTray(java.lang.String,\ int[])
+comment6.text=\r\n\ Check\ if\ the\ order\ numbers\ in\ orderNums\ are\ all\ in\ tray\ name\r\n
+comment7.params=
+comment7.target=void\ test2()
+comment7.text=---
+numComments=8
