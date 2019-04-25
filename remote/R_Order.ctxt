@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=R_Order
+comment0.text=\r\n\ The\ order\ processing\ handling.\r\n\ This\ code\ is\ incomplete\r\n\ @author\ \ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 2.0\r\n
+comment1.params=url
+comment1.target=R_Order(java.lang.String)
+comment2.params=bought
+comment2.target=void\ newOrder(catalogue.Basket)
+comment3.params=
+comment3.target=int\ uniqueNumber()
+comment4.params=
+comment4.target=catalogue.Basket\ getOrderToPick()
+comment5.params=orderNum
+comment5.target=boolean\ informOrderPicked(int)
+comment6.params=orderNum
+comment6.target=boolean\ informOrderCollected(int)
+comment7.params=
+comment7.target=java.util.Map\ getOrderState()
+numComments=8

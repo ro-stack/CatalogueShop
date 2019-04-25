@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=R_StockR
+comment0.text=\r\n\ Implements\ Read\ access\ to\ the\ stock\ list,\r\n\ the\ stock\ list\ is\ held\ in\ a\ relational\ DataBase.\r\n\ @author\ \ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 2.0\r\n
+comment1.params=url
+comment1.target=R_StockR(java.lang.String)
+comment2.params=pNum
+comment2.target=boolean\ exists(java.lang.String)
+comment2.text=\r\n\ Checks\ if\ the\ product\ exits\ in\ the\ stock\ list\r\n\ @param\ pNum\ The\ product\ number\r\n\ @return\ true\ if\ exists\ otherwise\ false\r\n
+comment3.params=pNum
+comment3.target=catalogue.Product\ getDetails(java.lang.String)
+comment3.text=\r\n\ Returns\ details\ about\ the\ product\ in\ the\ stock\ list\r\n\ @param\ pNum\ The\ product\ number\r\n\ @return\ StockNumber,\ Description,\ Price,\ Quantity\r\n
+comment4.params=pNum
+comment4.target=javax.swing.ImageIcon\ getImage(java.lang.String)
+comment4.text=\r\n\ Returns\ an\ image\ of\ the\ product\r\n\ BUG\ However\ this\ will\ not\ work\ for\ distributed\ version\r\n\ \ \ \ \ as\ an\ instance\ of\ an\ Image\ is\ not\ Serializable\r\n\ @param\ pNum\ The\ product\ number\r\n\ @return\ Image\r\n
+numComments=5
