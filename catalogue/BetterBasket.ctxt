@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BetterBasket
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BetterBasket\ here.\r\n\ \r\n\ @author\ \ Your\ Name\ \r\n\ @version\ 1.0\r\n
+comment1.params=pr
+comment1.target=boolean\ add(Product)
+comment1.text=\r\n\ The\ add\ method\ overrides\ the\ add\ method\ within\ basket\r\n\ I\ was\ going\ to\ include\ the\ sorting\ method\ within\ the\ add\r\n\ so\ it\ automatically\ sorted\ them\ but\ I\ decided\ to\ seperate\ them\r\n
+comment2.params=a\ b
+comment2.target=int\ sort(Product,\ Product)
+comment2.text=\r\n\ The\ sort\ method\ sorts\ the\ product\ via\ its\r\n\ product\ number\r\n
+numComments=3
