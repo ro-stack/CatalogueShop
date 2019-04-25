@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CollectModel
+comment0.text=\r\n\ Implements\ the\ Model\ of\ the\ collection\ client\r\n\ @author\ \ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 1.0\r\n
+comment1.params=mf
+comment1.target=CollectModel(middle.MiddleFactory)
+comment1.text=\r\n\ Construct\ the\ model\ of\ the\ Collection\ client\r\n\ @param\ mf\ The\ factory\ to\ create\ the\ connection\ objects\r\n
+comment2.params=orderNumber
+comment2.target=void\ doCollect(java.lang.String)
+comment2.text=\r\n\ Check\ if\ the\ product\ is\ in\ Stock\r\n\ @param\ orderNumber\ The\ order\ to\ be\ collected\r\n
+comment3.params=
+comment3.target=java.lang.String\ getResponce()
+comment3.text=\r\n\ The\ output\ to\ be\ displayed\r\n\ @return\ The\ string\ to\ be\ displayed\r\n
+numComments=4

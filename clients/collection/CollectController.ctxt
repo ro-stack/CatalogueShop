@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CollectController
+comment0.text=\r\n\ The\ Collection\ Controller\r\n\ @author\ M\ A\ Smith\ (c)\ June\ 2014\r\n
+comment1.params=model\ view
+comment1.target=CollectController(CollectModel,\ CollectView)
+comment1.text=\r\n\ Constructor\r\n\ @param\ model\ The\ model\ \r\n\ @param\ view\ \ The\ view\ from\ which\ the\ interaction\ came\r\n
+comment2.params=orderNum
+comment2.target=void\ doCollect(java.lang.String)
+comment2.text=\r\n\ Collect\ interaction\ from\ view\r\n\ @param\ orderNum\ The\ order\ collected\r\n
+numComments=3
