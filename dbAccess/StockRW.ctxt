@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StockRW
+comment0.text=\r\n\ Implements\ read/write\ access\ to\ the\ stock\ database.\r\n
+comment1.params=
+comment1.target=StockRW()
+comment1.text=\r\n\ Connects\ to\ database\r\n
+comment2.params=pNum\ amount
+comment2.target=boolean\ buyStock(java.lang.String,\ int)
+comment2.text=\r\n\ Customer\ buys\ stock,\ quantity\ decreased\ if\ sucessful.\r\n\ @param\ pNum\ Product\ number\r\n\ @param\ amount\ Amount\ of\ stock\ bought\r\n\ @return\ true\ if\ succeeds\ else\ false\r\n
+comment3.params=pNum\ amount
+comment3.target=void\ addStock(java.lang.String,\ int)
+comment3.text=\r\n\ Adds\ stock\ (Re-stocks)\ to\ the\ store.\r\n\ \ Assumed\ to\ exist\ in\ database.\r\n\ @param\ pNum\ Product\ number\r\n\ @param\ amount\ Amount\ of\ stock\ to\ add\r\n
+comment4.params=detail
+comment4.target=void\ modifyStock(catalogue.Product)
+comment4.text=\r\n\ Modifies\ Stock\ details\ for\ a\ given\ product\ number.\r\n\ \ Assumed\ to\ exist\ in\ database.\r\n\ Information\ modified\:\ Description,\ Price\r\n\ @param\ detail\ Product\ details\ to\ change\ stocklist\ to\r\n
+numComments=5
