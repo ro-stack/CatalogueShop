@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PickController
+comment0.text=\r\n\ The\ BackDoor\ Controller\r\n\ @author\ M\ A\ Smith\ (c)\ June\ 2014\r\n
+comment1.params=model\ view
+comment1.target=PickController(PickModel,\ PickView)
+comment1.text=\r\n\ Constructor\r\n\ @param\ model\ The\ model\ \r\n\ @param\ view\ \ The\ view\ from\ which\ the\ interaction\ came\r\n
+comment2.params=
+comment2.target=void\ doPick()
+comment2.text=\r\n\ Picked\ interaction\ from\ view\r\n
+numComments=3

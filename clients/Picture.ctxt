@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Picture
+comment0.text=\r\n\ A\ class\ to\ display\ a\ picture\ in\ a\ client\r\n\ @author\ \ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Picture()
+comment2.params=aWidth\ aHeight
+comment2.target=Picture(int,\ int)
+comment3.params=ic
+comment3.target=void\ set(javax.swing.ImageIcon)
+comment4.params=
+comment4.target=void\ clear()
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment6.params=g
+comment6.target=void\ update(java.awt.Graphics)
+comment7.params=g
+comment7.target=void\ drawImage(java.awt.Graphics2D)
+comment7.text=\r\n\ Draw\ the\ picture\r\n\ First\ set\ the\ area\ to\ white\ and\ then\ \r\n\ \ draw\ the\ image\ \r\n\ @param\ g\ Grapics\ context\r\n
+numComments=8

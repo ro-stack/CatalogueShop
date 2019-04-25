@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DisplayView
+comment0.text=\r\n\ The\ visual\ display\ seen\ by\ customers\ (Change\ to\ graphical\ version)\r\n\ Change\ to\ a\ graphical\ display\r\n\ @author\ \ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 1.0\r\n
+comment1.params=rpc\ mf\ x\ y
+comment1.target=DisplayView(javax.swing.RootPaneContainer,\ middle.MiddleFactory,\ int,\ int)
+comment1.text=\r\n\ Construct\ the\ view\r\n\ @param\ rpc\ \ \ Window\ in\ which\ to\ construct\r\n\ @param\ mf\ \ \ \ Factor\ to\ deliver\ order\ and\ stock\ objects\r\n\ @param\ x\ \ \ \ \ x-coordinate\ of\ position\ of\ window\ on\ screen\ \r\n\ @param\ y\ \ \ \ \ y-coordinate\ of\ position\ of\ window\ on\ screen\ \ \r\n
+comment2.params=c
+comment2.target=void\ setController(DisplayController)
+comment3.params=aModelOfDisplay\ arg
+comment3.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment3.text=\r\n\ Called\ to\ update\ the\ display\ in\ the\ shop\r\n
+comment4.params=g
+comment4.target=void\ update(java.awt.Graphics)
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment5.text=\r\n\ Redraw\ the\ screen\ double\ buffered\r\n\ @param\ g\ Graphics\ context\r\n
+comment6.params=g
+comment6.target=void\ drawScreen(java.awt.Graphics2D)
+comment7.params=g
+comment7.target=void\ drawActualScreen(java.awt.Graphics2D)
+comment7.text=\r\n\ Redraw\ the\ screen\r\n\ @param\ g\ Graphics\ context\r\n
+comment8.params=map\ key
+comment8.target=java.lang.String\ listOfOrders(java.util.Map,\ java.lang.String)
+comment8.text=\r\n\ Return\ a\ string\ of\ order\ numbers\r\n\ @param\ map\ Contains\ the\ current\ state\ of\ the\ system\r\n\ @param\ key\ The\ key\ of\ the\ list\ requested\r\n\ @return\ As\ a\ string\ a\ list\ of\ order\ numbers.\r\n
+numComments=9

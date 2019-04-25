@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Starts\ all\ the\ clients\ \ as\ a\ single\ application.\r\n\ Good\ for\ testing\ the\ system\ using\ a\ single\ application\ but\ no\ use\ of\ RMI.\r\n\ @author\ \ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 2.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ begin()
+comment2.text=\r\n\ Starts\ test\ system\ (Non\ distributed)\r\n
+comment3.params=mlf
+comment3.target=void\ startCustomerGUI_MVC(middle.MiddleFactory)
+comment4.params=mlf
+comment4.target=void\ startCashierGUI_MVC(middle.MiddleFactory)
+comment4.text=\r\n\ start\ the\ cashier\ client\r\n\ @param\ mlf\ A\ factory\ to\ create\ objects\ to\ access\ the\ stock\ list\r\n
+comment5.params=mlf
+comment5.target=void\ startBackDoorGUI_MVC(middle.MiddleFactory)
+comment6.params=mlf
+comment6.target=void\ startPickGUI_MVC(middle.MiddleFactory)
+comment7.params=mlf
+comment7.target=void\ startDisplayGUI_MVC(middle.MiddleFactory)
+comment8.params=mlf
+comment8.target=void\ startCollectionGUI_MVC(middle.MiddleFactory)
+comment9.params=mlf
+comment9.target=void\ startCatalogueGUI_MVC(middle.MiddleFactory)
+numComments=10
